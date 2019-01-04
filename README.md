@@ -1,0 +1,4 @@
+# SpringCloud-Hystrix-Dashboard-Turbine
+Turbine聚合DashBoard数据
+看单个的Hystrix Dashboard的数据并没有什么多大的价值，要想看这个系统的Hystrix Dashboard数据就需
+要用到Hystrix Turbine。Hystrix Turbine将每个服务Hystrix Dashboard数据进行了整合
